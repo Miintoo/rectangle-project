@@ -10,7 +10,7 @@
 }
 
 .rectangle_box div:nth-child(1) {
-  border: 3pxl solid black;
+  border: 3px solid black;
   border-left: none;
 
   background-color: #f0f0f0;
